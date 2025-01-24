@@ -3,7 +3,7 @@ This C program functions as a multi-functional utility, offering a variety of op
 
 Here’s a quick guide to running the program:
 
-### Option 1: Running the `.exe` File ###
+### Option 1: Running the `.exe` File (Only For Windows Users ) ###
 
 1. Download and Locate the `.exe` file on your computer.
 2. Double-click the file to run it.
